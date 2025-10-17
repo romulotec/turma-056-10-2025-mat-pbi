@@ -1,0 +1,31 @@
+cpf;nome_sobrenome;cidade_residencia;email_telefone
+049.135.762-20;Beatriz Nunes;São José dos Campos;(beatriz.nunes@email.com)--12 99876-5432
+158.246.873-31;Mateus Oliveira;Campinas;(mateus.oliveira@email.com)--19 99765-4321
+267.357.984-42;Lívia Duarte;Ribeirão Preto;(livia.duarte@email.com)--16 99654-3210
+376.468.195-53;Rodrigo Pires;Santos;(rodrigo.pires@email.com)--13 99543-2109
+485.579.306-64;Natália Moreira;São Bernardo do Campo;(natalia.moreira@email.com)--11 99432-1098
+594.680.417-75;Henrique Lopes;Sorocaba;(henrique.lopes@email.com)--15 99321-0987
+603.791.528-86;Marcos Teixeira;Niterói;(marcos.teixeira@email.com)--21 99210-9876
+712.802.639-97;Patrícia Carvalho;Duque de Caxias;(patricia.carvalho@email.com)--21 99109-8765
+821.913.740-08;Fabiana Reis;Jundiaí;(fabiana.reis@email.com)--11 99098-7654
+930.024.851-19;Igor Martins;Bauru;(igor.martins@email.com)--14 98987-6543
+041.135.962-20;Sérgio Lima;Pelotas;(sergio.lima@email.com)--53 98876-5432
+152.246.073-31;Clara Rocha;Caxias do Sul;(clara.rocha@email.com)--54 98765-4321
+263.357.184-42;Vitor Gomes;Mauá;(vitor.gomes@email.com)--11 98654-3210
+374.468.295-53;Gisele Freitas;Petrópolis;(gisele.freitas@email.com)--24 98543-2109
+485.579.306-64;Paulo Henrique;São Carlos;(paulo.henrique@email.com)--16 98432-1098
+596.680.417-75;Aline Braga;Itu;(aline.braga@email.com)--11 98321-0987
+607.791.528-86;Mateo Castro;Barueri;(mateo.castro@email.com)--11 98210-9876
+718.802.639-97;Rosa Santos;Sertãozinho;(rosa.santos@email.com)--16 98109-8765
+829.913.740-08;Eduarda Pinto;Limeira;(eduarda.pinto@email.com)--19 98098-7654
+930.024.851-19;Nelson Cardoso;Marília;(nelson.cardoso@email.com)--14 97987-6543
+041.135.962-20;Camilo Ribeiro;Varginha;(camilo.ribeiro@email.com)--35 97876-5432
+152.246.073-31;Bianca Lima;Araraquara;(bianca.lima@email.com)--16 97765-4321
+263.357.184-42;Rafael Nascimento;Taboão da Serra;(rafael.nascimento@email.com)--11 97654-3210
+374.468.295-53;Lorena Alves;Itapetininga;(lorena.alves@email.com)--15 97543-2109
+485.579.306-64;Gustavo Maia;Franca;(gustavo.maia@email.com)--16 97432-1098
+596.680.417-75;Marta Figueiredo;Jacareí;(marta.figueiredo@email.com)--12 97321-0987
+607.791.528-86;Diego Teixeira;Presidente Prudente;(diego.teixeira@email.com)--18 97210-9876
+718.802.639-97;Sonia Campos;Catanduva;(sonia.campos@email.com)--17 97109-8765
+829.913.740-08;Alexandre Pinto;Ourinhos;(alexandre.pinto@email.com)--14 97098-7654
+930.024.851-19;Elisa Moraes;Araras;(elisa.moraes@email.com)--19 96987-6543
